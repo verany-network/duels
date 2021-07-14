@@ -1,4 +1,11 @@
-.idea
+# Project exclude paths
+gradlew.bat
+gradlew
+/gradle
 .gradle
 gradle
-gradlew
+.idea
+.vscode
+.temp
+node_modules
+settings
